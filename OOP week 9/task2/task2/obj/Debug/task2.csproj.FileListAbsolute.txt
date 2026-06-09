@@ -1,0 +1,7 @@
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\bin\Debug\task2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\bin\Debug\task2.pdb
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\obj\Debug\task2.exe
+C:\Users\Imran\OneDrive\Desktop\OOP week 9\task2\task2\obj\Debug\task2.pdb
